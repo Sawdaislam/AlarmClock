@@ -22,7 +22,10 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="open time picker" />
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Open Time Picker"
+       />
 
     <Button
         android:id="@+id/button_cancel"
@@ -30,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/button_timepicker"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="27dp"
-        android:text="cancel alarm" />
+        android:text="cancel alarm"
+         />
 
 </RelativeLayout>
