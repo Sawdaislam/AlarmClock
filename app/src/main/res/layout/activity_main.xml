@@ -33,7 +33,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/button_timepicker"
         android:layout_centerHorizontal="true"
-        android:text="cancel alarm"
+        android:textSize="22dp"
+        android:text="Cancel Alarm"
          />
 
 </RelativeLayout>
